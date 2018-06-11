@@ -2,6 +2,8 @@ page 123456702 "Seminar List"
 {
     PageType = List;
     SourceTable = Seminar;
+    UsageCategory = Documents;
+    CardPageId = "Seminar Card";
 
     layout
     {

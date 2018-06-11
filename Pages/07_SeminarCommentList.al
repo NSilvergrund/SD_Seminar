@@ -2,8 +2,8 @@ page 123456707 "Seminar Comment List"
 {
     PageType = List;
     SourceTable = "Seminar Comment Line";
-    Caption = 'Seminar Comment Sheet';
-    UsageCategory = Tasks;
+    Caption = 'Seminar Comment List';
+    //UsageCategory = Tasks;
     Editable = FALSE;
 
     layout
